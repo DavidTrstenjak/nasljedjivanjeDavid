@@ -1,0 +1,8 @@
+C:\Users\PC\source\repos\nasljedjivanjeDavid\nasljedjivanjeDavid\bin\Debug\nasljedjivanjeDavid.exe.config
+C:\Users\PC\source\repos\nasljedjivanjeDavid\nasljedjivanjeDavid\bin\Debug\nasljedjivanjeDavid.exe
+C:\Users\PC\source\repos\nasljedjivanjeDavid\nasljedjivanjeDavid\bin\Debug\nasljedjivanjeDavid.pdb
+C:\Users\PC\source\repos\nasljedjivanjeDavid\nasljedjivanjeDavid\obj\Debug\nasljedjivanjeDavid.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\nasljedjivanjeDavid\nasljedjivanjeDavid\obj\Debug\nasljedjivanjeDavid.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\nasljedjivanjeDavid\nasljedjivanjeDavid\obj\Debug\nasljedjivanjeDavid.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\nasljedjivanjeDavid\nasljedjivanjeDavid\obj\Debug\nasljedjivanjeDavid.exe
+C:\Users\PC\source\repos\nasljedjivanjeDavid\nasljedjivanjeDavid\obj\Debug\nasljedjivanjeDavid.pdb
